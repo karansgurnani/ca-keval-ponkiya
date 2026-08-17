@@ -957,13 +957,13 @@ button:focus-visible,
 @media (max-width: 575.98px) {
     .hero-actions .btn { width: 100%; }
     .section-head { margin-bottom: 40px; }
-    .brand-sub { display: none; }
     .brand-logo { height: 38px; }
     .industry-grid li { padding: .7rem 1.1rem; font-size: .9rem; }
 }
 
 @media (max-width: 400px) {
     .brand-name { font-size: .95rem; }
+    .brand-sub { letter-spacing: .1em; font-size: .6rem; }
     .brand-logo { height: 34px; }
     .navbar-brand { gap: 9px; }
 }
